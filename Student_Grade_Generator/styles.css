@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
+    background-color: hsl(0, 9%, 98%);
     margin: 0;
     padding: 0;
   }
@@ -15,7 +15,7 @@ body {
   }
   
   .input-container {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
   
   label {
@@ -51,7 +51,7 @@ body {
     padding: 20px;
     background-color: #fff;
     border: 2px solid #ccc;
-    border-radius: 5px;
+    border-radius: 3px;
     font-size: 20px;
     font-weight: bold;
     color: #333;
