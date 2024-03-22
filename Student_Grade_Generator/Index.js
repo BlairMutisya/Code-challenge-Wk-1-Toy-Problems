@@ -4,7 +4,7 @@ function calculateGrade() {
     let grade;
   
     if (isNaN(marks) || marks < 0 || marks > 100) {
-      resultElement.textContent = 'Invalid input! Please enter a number between 0 and 100.';
+      resultElement.innerHTML = 'Invalid input! Please enter a number between 0 and 100.';
       return;
     }
   
@@ -20,6 +20,6 @@ function calculateGrade() {
       grade = 'E';
     }
   
-    resultElement.textContent = `The student's grade is: ${grade}`;
+    resultElement.innerHTML = `The student's grade is: ${grade}`;
   }
   

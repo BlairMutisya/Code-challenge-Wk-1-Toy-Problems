@@ -1,12 +1,35 @@
-.container {
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
     text-align: center;
     margin-top: 50px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #666;
   }
   
   input[type="number"] {
     width: 200px;
     padding: 10px;
-    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
   }
   
   button {
@@ -14,10 +37,23 @@
     background-color: #007bff;
     color: #fff;
     border: none;
+    border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
   }
   
   button:hover {
     background-color: #0056b3;
+  }
+  
+  .result-box {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
   }
   
