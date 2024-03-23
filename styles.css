@@ -39,20 +39,13 @@ body {
     padding: 10px 20px;
     text-decoration: none;
     color: #0f0f0f; 
-    transition: background-color 0.3s;
     border-radius: 1px;
-  }
-  li a:hover {
-    background-color: hsl(123, 24%, 52%);
-    border-radius: 1px;
-  }
-  .section {
-    padding: 20px;
     border-bottom: 2px solid transparent;
     transition: border-bottom 0.3s ease;
   }
-  
-  .section:hover {
-    border-bottom: 2px solid #007bff; 
+  li a:hover {
+    background-color:  hsl(138, 32%, 69%); 
+    border-radius: 50px;
+    border-bottom: 4px solid hsl(0, 100%, 50%);
+    transition: border-bottom 0.7s ease;
   }
-  
