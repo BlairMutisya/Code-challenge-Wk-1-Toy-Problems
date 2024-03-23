@@ -19,10 +19,10 @@ The Net Salary Calculator is a program designed to calculate an individual's net
 - JavaScript
 
 ## Usage
-- Open the index.html file in a web browser.
-- Enter the basic salary and benefits into the designated input fields.
-- Click the "Calculate Net Salary" button.
-- The program will display the calculated values for gross salary, Payee (tax), NHIF deductions, NSSF deductions, and net salary.
+1. Open the index.html file in a web browser.
+2. Enter the basic salary and benefits into the designated input fields.
+3. Click the "Calculate Net Salary" button.
+4. The program will display the calculated values for gross salary, Payee (tax), NHIF deductions, NSSF deductions, and net salary.
 
 ## Contributing
 For any inquiries or suggestions regarding this project, feel free to contact me:
