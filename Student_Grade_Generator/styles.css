@@ -31,21 +31,19 @@ body {
     border: 2px solid #ccc;
     border-radius: 5px;
   }
-  
   button {
     padding: 10px 20px;
-    background-color: hsl(32, 90%, 48%);
-    color: #fff;
+    background-color: #007bff; 
+    color: #fff; 
     border: none;
-    border-radius: 5px;
+    border-radius: 20px; 
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease; 
   }
   
   button:hover {
-    background-color: hsl(135, 100%, 35%);
+    background-color: #0056b3; 
   }
-  
   .result-box {
     margin-top: 20px;
     padding: 20px;
@@ -55,6 +53,5 @@ body {
     font-size: 20px;
     font-weight: bold;
     color: #333;
-    size: 4cm;
-  }
   
+  }
