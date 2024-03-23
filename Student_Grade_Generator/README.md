@@ -35,10 +35,10 @@ This is a simple web application that allows users to input student marks and ca
 
 For any inquiries or suggestions regarding this project, feel free to contact me:
 
-Name: Blair Mutisya Vullu
-Email: tonnyblair09@gmail.com
-LinkedIn: https://www.linkedin.com/in/blair-mutisya-59a829217/
-GitHub: https://github.com/
+- Name: Blair Mutisya Vullu
+- Email: tonnyblair09@gmail.com
+- LinkedIn: https://www.linkedin.com/in/blair-mutisya-59a829217/
+- GitHub: https://github.com/
 
 ## License
 
