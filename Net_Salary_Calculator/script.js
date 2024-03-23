@@ -19,17 +19,26 @@ function calculateNetSalary() {
   }
   
   function calculatePayee(salary) {
-    // Calculate payee based on KRA tax rates
-    // Add your logic here
+ 
+    let employeeContribution = salary * 0.02;
+    let employerContribution = salary * 0.04; 
+    let totalContribution = employeeContribution + employerContribution;
+    return totalContribution;
   }
   
   function calculateNHIF(salary) {
-    // Calculate NHIF deductions
-    // Add your logic here
+
+    let employeeContribution = salary * 0.05;
+    let employerContribution = salary * 0.07; 
+    let totalContribution = employeeContribution + employerContribution;
+    return totalContribution;
   }
   
   function calculateNSSF(salary) {
-    // Calculate NSSF deductions
-    // Add your logic here
+
+    let employeeContribution = salary * 0.06; 
+    let employerContribution = salary * 0.06; 
+    let totalContribution = employeeContribution + employerContribution;
+    return totalContribution;
   }
   
