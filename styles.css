@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; 
+    background-color: hsl(138, 32%, 69%); 
   }
   
   nav {
@@ -20,10 +20,9 @@ body {
     padding: 0;
     margin: 0;
     display: flex;
-    list-style-type:none ;
     flex-direction: row;
     align-items: center;
-    gap: 50px;
+    gap: 70px;
     font-size: 20px;
     
   }
@@ -39,12 +38,21 @@ body {
     display: block;
     padding: 10px 20px;
     text-decoration: none;
-    color: #fff; 
+    color: #0f0f0f; 
     transition: background-color 0.3s;
     border-radius: 1px;
   }
   li a:hover {
     background-color: hsl(123, 24%, 52%);
     border-radius: 1px;
+  }
+  .section {
+    padding: 20px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.3s ease;
+  }
+  
+  .section:hover {
+    border-bottom: 2px solid #007bff; 
   }
   
