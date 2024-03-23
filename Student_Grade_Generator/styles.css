@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: hsl(0, 4%, 5%);
+    background-color: hsl(138, 32%, 69%);
     margin: 0;
     padding: 0;
   }
@@ -11,7 +11,7 @@ body {
   }
   
   h1 {
-    color: hsl(0, 13%, 92%);
+    color: hwb(0 3% 97%);
   }
   
   .input-container {
@@ -22,11 +22,11 @@ body {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #666;
+    color: #080808;
   }
   
   input[type="number"] {
-    width: 200px;
+    width: 100px;
     padding: 10px;
     border: 2px solid #ccc;
     border-radius: 5px;
@@ -53,5 +53,5 @@ body {
     font-size: 20px;
     font-weight: bold;
     color: #333;
-  
+
   }

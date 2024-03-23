@@ -2,14 +2,17 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Light gray background color */
+    background-color: #f0f0f0; 
   }
   
   nav {
-    background-color: #333; /* Dark gray background color for the navigation bar */
     display: flex;
-    list-style-type:none ;
-    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 90px;
+    background-color: slategrey;
+    border-bottom: 0px solid black;
+
   }
   
   ul {
@@ -26,17 +29,22 @@ body {
   }
   
   li {
-    display: inline;
+    display: block;
+    font-weight: bold;
+    align-content: center;
+
   }
   
   li a {
     display: block;
     padding: 10px 20px;
     text-decoration: none;
-    color: #fff; /* White text color */
-    transition: background-color 0.3s; /* Smooth transition for background color */
+    color: #fff; 
+    transition: background-color 0.3s;
+    border-radius: 1px;
   }
   li a:hover {
-    background-color: #555; /* Darker shade of gray on hover */
+    background-color: hsl(123, 24%, 52%);
+    border-radius: 1px;
   }
   
