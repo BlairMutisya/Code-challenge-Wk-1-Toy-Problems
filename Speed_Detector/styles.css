@@ -1,20 +1,20 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: hsl(0, 86%, 47%);
+    background-color: hsl(138 32% 69%);
     margin: 0;
     padding: 0;
   }
   
   .container {
-    max-width: 500px;
-    margin: 50px auto;
+    max-width: 800px;
+    margin: 100px auto;
     text-align: center;
-    background-color: #fff;
-    padding: 20px;
+    background-color: hsl(138, 32%, 69%);
+    padding: 50px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
   }
-  
+
   h1 {
     color: #333;
   }
@@ -22,7 +22,7 @@ body {
   label {
     display: block;
     margin-bottom: 10px;
-    color: #666;
+    color: hsl(0, 0%, 0%);
   }
   
   input[type="number"] {
@@ -45,7 +45,7 @@ body {
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: hsl(128, 100%, 35%);
   }
   
   #speed-output {
