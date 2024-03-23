@@ -1,9 +1,8 @@
 
-
-![Screenshot from 2024-03-22 09-47-31](https://github.com/BlairMutisya/Code-challenge-Wk-1-Toy-Problems/assets/122833274/c7b51fca-372f-4593-950c-e7e37bf5cdf9)
-
-
 # Student Grade Calculator
+
+![Screenshot from 2024-03-22 09-47-31](https://github.com/BlairMutisya/Code-challenge-Wk-1-Toy-Problems/assets/122833274/056f9577-549b-43cf-88cb-b1e541aaf65d)
+
 
 This is a simple web application that allows users to input student marks and calculates the corresponding grade based on predefined criteria.
 
@@ -40,7 +39,6 @@ For any inquiries or suggestions regarding this project, feel free to contact me
 - Email: tonnyblair09@gmail.com
 - LinkedIn: https://www.linkedin.com/in/blair-mutisya-59a829217/
 - GitHub: https://github.com/
-
 
 ## License
 
