@@ -44,9 +44,9 @@ The solution involves computing various deductions and taxes from the gross sala
 The solution implements functions to calculate payee (tax), NHIF deductions, NSSF deductions, and finally computes the net salary.
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
